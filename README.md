@@ -38,19 +38,16 @@ It helps job seekers optimize their applications by:
 
 Smart-Career-Assistant/
 │
-├── app.py                       # Main Streamlit app
-├── requirements.txt             # Python dependencies
-├── README.md                    # Project documentation
+├── app.py                       
+├── requirements.txt             
+├── README.md                    
 │
 ├── notebooks/
-│   └── gen-ai-job-application-assistant.ipynb   # Exploration \& testing
+│   └── gen-ai-job-application-assistant.ipynb   
 │
 ├── data/
-│   ├── sample\_resume.txt        # Example resume
-│   └── sample\_jd.txt            # Example job description
-│
-├── outputs/
-│   └── output.json              # Generated JSON output
+│   ├── sample\_resume.txt        
+│   └── sample\_jd.txt            
 
 
 
