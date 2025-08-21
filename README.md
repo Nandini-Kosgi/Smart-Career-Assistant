@@ -1,4 +1,5 @@
 🚀 Smart Career Assistant
+
 Smart Career Assistant is an AI-powered job application tool built with Streamlit and Google Gemini.
 It helps job seekers optimize their applications by:
 ✅ Scoring resumes against job descriptions
@@ -11,6 +12,7 @@ It helps job seekers optimize their applications by:
 
 
 ✨ Features
+
 •	Resume–JD Match Scoring → Get a % alignment score with gap analysis
 •	Resume Optimization → Generate tailored bullets to fill missing skills
 •	Cover Letter Generator → Draft professional, personalized cover letters
@@ -21,6 +23,7 @@ It helps job seekers optimize their applications by:
 
 
 🛠️ Tech Stack
+
 •	Frontend/UI: Streamlit
 •	LLM Backend: Google Gemini (gemini-1.5-flash)
 •	Language: Python 3.9+
@@ -74,18 +77,11 @@ Smart-Career-Assistant/
 
 
 
-
-
 🎯 Future Enhancements
 •	Add LinkedIn/Indeed job description scraper
 •	Integrate with Google Sheets for tracking applications
 •	Support multiple resumes \& bulk JD comparison
 •	Enhance prompts with RAG (resume + portfolio grounding)
-
-
-
-
-
 
 
 👩‍💻 Author
