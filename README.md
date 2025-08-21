@@ -34,6 +34,8 @@ It helps job seekers optimize their applications by:
 
 
 📂 Project Structure
+
+
 Smart-Career-Assistant/
 │
 ├── app.py                       # Main Streamlit app
@@ -78,6 +80,7 @@ Smart-Career-Assistant/
 
 
 🎯 Future Enhancements
+
 •	Add LinkedIn/Indeed job description scraper
 •	Integrate with Google Sheets for tracking applications
 •	Support multiple resumes \& bulk JD comparison
@@ -85,6 +88,7 @@ Smart-Career-Assistant/
 
 
 👩‍💻 Author
+
 Nandini Kosgi
 📌 AI Engineer| 5+ years experience
 🔗 LinkedIn: https://www.linkedin.com/in/nandinikosgi/
