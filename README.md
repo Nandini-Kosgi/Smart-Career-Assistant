@@ -2,6 +2,7 @@
 
 Smart Career Assistant is an AI-powered job application tool built with Streamlit and Google Gemini.
 It helps job seekers optimize their applications by:
+
 ✅ Scoring resumes against job descriptions
 ✅ Suggesting tailored resume bullet points
 ✅ Drafting personalized cover letters
