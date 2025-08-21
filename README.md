@@ -4,8 +4,11 @@ Smart Career Assistant is an AI-powered job application tool built with Streamli
 It helps job seekers optimize their applications by:
 
 ✅ Scoring resumes against job descriptions
+
 ✅ Suggesting tailored resume bullet points
+
 ✅ Drafting personalized cover letters
+
 ✅ Exporting structured JSON outputs for tracking
 
 
@@ -88,6 +91,6 @@ Smart-Career-Assistant/
 👩‍💻 Author
 
 Nandini Kosgi
-📌 AI Engineer| 5+ years experience
+📌 AI Engineer
 🔗 LinkedIn: https://www.linkedin.com/in/nandinikosgi/
 
