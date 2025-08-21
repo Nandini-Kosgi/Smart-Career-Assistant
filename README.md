@@ -40,10 +40,11 @@ It helps job seekers optimize their applications by:
 📂 Project Structure
 
 smart-career-assistant/
-│── app.py              # Main Streamlit/Flask app
-│── requirements.txt    # Dependencies
-│── README.md           # Project details
-│── data/               # (Optional) Sample resumes/job descriptions
+
+│── app.py              
+│── requirements.txt    
+│── README.md           
+│── data/               
 
 
 
