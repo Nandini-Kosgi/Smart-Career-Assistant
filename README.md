@@ -39,19 +39,11 @@ It helps job seekers optimize their applications by:
 
 📂 Project Structure
 
-
-Smart-Career-Assistant/
-│
-├── app.py                       
-├── requirements.txt             
-├── README.md                    
-│
-├── notebooks/
-│   └── gen-ai-job-application-assistant.ipynb   
-│
-├── data/
-│   ├── sample\_resume.txt        
-│   └── sample\_jd.txt            
+smart-career-assistant/
+│── app.py              # Main Streamlit/Flask app
+│── requirements.txt    # Dependencies
+│── README.md           # Project details
+│── data/               # (Optional) Sample resumes/job descriptions
 
 
 
